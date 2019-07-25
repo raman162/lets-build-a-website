@@ -1,0 +1,21 @@
+body{
+  background-color: lavenderblush;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Helvetica;
+}
+
+h1{
+  margin: 20px 0;
+  text-align: center;
+}
+
+p{
+  font-size: 16px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
